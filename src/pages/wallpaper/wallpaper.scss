@@ -1,0 +1,38 @@
+.wallpaper__nav{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.wallpaper__select{
+    position: absolute;
+    top: 10vh;
+    left: 25vw;
+    width: 50vw;
+    background-color: #fff;
+    border-radius: 5px;
+    z-index: 9;
+}
+.wallpaper__option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.wallpaper__list{
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    background-color: rgb(223, 223, 212);
+}
+.wallpaper__item{
+    width: 46vw;
+    margin: 2vw 2vw 2vw 2vw;
+    background-color: #fff;
+    border-radius: 8px;
+}

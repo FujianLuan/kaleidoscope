@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "kaleidoscope",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
